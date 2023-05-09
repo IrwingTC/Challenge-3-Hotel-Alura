@@ -21,8 +21,8 @@ Consultar las reservas de un huésped existente.
 
 ## Resultados
 ###
-![HotelAluraRes2](https://user-images.githubusercontent.com/114364992/236973972-76054a26-0976-4d18-90ca-97e177cbf4d6.jpg)
-###
 ![HotelAluraPrin](https://user-images.githubusercontent.com/114364992/236973976-d690baab-422f-4481-81f4-a2c9d6965528.jpg)
 ###
 ![HotelAluraRes1](https://user-images.githubusercontent.com/114364992/236973978-fd026037-6816-4d05-a4f5-778e42f2ce43.jpg)
+###
+![HotelAluraRes2](https://user-images.githubusercontent.com/114364992/236973972-76054a26-0976-4d18-90ca-97e177cbf4d6.jpg)
